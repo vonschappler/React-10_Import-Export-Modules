@@ -10,7 +10,7 @@ function triplePi() {
 
 export default pi
 
-exports = {
+export {
   doublePi,
   triplePi
 }
